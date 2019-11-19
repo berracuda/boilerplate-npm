@@ -4,6 +4,7 @@
 	"description": "berracuda first node.js learning by doing project",
 	"keywords": ["fcc","freecodecamp","camper"],
 	"license": "private",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

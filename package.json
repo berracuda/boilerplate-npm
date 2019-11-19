@@ -3,6 +3,7 @@
 	"author": "berracuda",
 	"description": "berracuda first node.js learning by doing project",
 	"keywords": ["fcc","freecodecamp","camper"],
+	"license": "private",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
